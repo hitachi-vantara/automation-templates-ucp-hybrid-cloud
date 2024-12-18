@@ -1,10 +1,10 @@
 ## Content Table
 
--   [01-Introduction](.\01-Introduction.md)
--   [02-Technical_Deep_Dive](.\02-Technical_Deep_Dive.md)
--   [03-Deployment](.\03-Deployment.md)
--   [04-Conclusion](.\04-Conclusion.md)   <----This doc
--   [05-All_in_One](.\05-All_in_One.md)
+-   [01-Introduction](01-Introduction.md)
+-   [02-Technical_Deep_Dive](02-Technical_Deep_Dive.md)
+-   [03-Deployment](03-Deployment.md)
+-   [04-Conclusion](04-Conclusion.md)   <----This doc
+-   [05-All_in_One](05-All_in_One.md)
 
 
 ## Conclusion
